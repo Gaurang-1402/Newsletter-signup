@@ -80,8 +80,4 @@ app.listen(process.env.PORT || 3000, function(){
   console.log("Server 3000 is online.");
 })
 
-// API Key
-// a49535fd9ef93dd2440dd119cf363e91-us7
 
-// Audience List ID
-// d3af8c7503
